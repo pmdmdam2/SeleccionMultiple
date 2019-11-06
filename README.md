@@ -6,5 +6,7 @@ Cada elemento del ListView es seleccionable, los elementos seleccionados se mues
 
 El aspecto del diseño de la interfaz es el siguiente:
 
+![Diseño de la interfaz](https://raw.githubusercontent.com/pmdmdam2/SeleccionMultiple/master/app/src/main/assets/lista_multiple.png)
 
 El aspecto de la aplicación en ejecución es el siguiente:
+![Aplicación en ejecución](https://raw.githubusercontent.com/pmdmdam2/SeleccionMultiple/master/app/src/main/assets/prueba_lista_multiple.png)
